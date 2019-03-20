@@ -1,1 +1,1 @@
-# test_singleton
+# Добвить достпы к бд в файл credentials.php
